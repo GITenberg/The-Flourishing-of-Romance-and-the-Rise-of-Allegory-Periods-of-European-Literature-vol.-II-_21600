@@ -1,0 +1,33 @@
+_repo: The-Flourishing-of-Romance-and-the-Rise-of-Allegory-Periods-of-European-Literature-vol.-II-_21600
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+description: ''
+gutenberg_issued: '2007-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21600'
+  lccn: '43048172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature, Medieval -- History and criticism'
+- !lcsh 'Allegory'
+- !lcsh 'Romances -- History and criticism'
+title: 'The Flourishing of Romance and the Rise of Allegory
+
+  (Periods of European Literature, vol. II)'
+url: http://www.gutenberg.org/ebooks/21600
