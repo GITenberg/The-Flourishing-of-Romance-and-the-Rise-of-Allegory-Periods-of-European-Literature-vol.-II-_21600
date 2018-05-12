@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4608
     wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21600#The-Flourishing-of-Romance-and-the-Rise-of-Allegory-Periods-of-European-Literature-vol.-II-
 gutenberg_issued: '2007-05-24'
 gutenberg_type: Text
 identifiers:
